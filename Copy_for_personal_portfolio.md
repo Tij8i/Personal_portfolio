@@ -14,7 +14,7 @@ Portfolio
 -
 
 -Sensible growth frontpage rendering
-(comment popping up saying I cheated a bit) 
+(comment popping up saying I cheated a bit- **NO, requires JS**) 
 
 
 Skills
