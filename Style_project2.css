@@ -1,0 +1,40 @@
+
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+    position: relative;
+}
+#section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
+#section2 {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
+#section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
+#section4 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
+
+
+
+#circle-shape-image {
+background-color: orange;
+height: 436px;
+font-family: Open Sans, sans-serif;
+margin: 2rem;
+}
+
+#circle-shape-image p {
+line-height: 1.8;
+}
+
+#circle-shape-image .curve {
+width: 33%; height: auto;
+min-width: 150px;
+float: left;
+margin-right:2rem;
+border-radius: 50%;
+-webkit-shape-outside:circle();
+shape-outside:circle();
+}
+
+.btn{
+margin-left: 400px;
+margin-top: 50px;
+background-color: purple;
+}
